@@ -2,8 +2,8 @@ import * as http from 'http'
 
 import { merge } from 'lodash'
 
-import { HttpStatusCode, Logger, OnHealthCheck, OnInit } from '@diia-inhouse/types'
-import { guards } from '@diia-inhouse/utils'
+import { HttpStatusCode, Logger, OnHealthCheck, OnInit } from '@kant2002-diia-inhouse/types'
+import { guards } from '@kant2002-diia-inhouse/utils'
 
 import { HealthCheckConfig, HealthCheckDetails, HealthCheckResponse } from '../interfaces'
 

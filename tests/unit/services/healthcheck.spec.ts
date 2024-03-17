@@ -1,6 +1,6 @@
 import * as http from 'http'
 
-import { HttpStatusCode, Logger } from '@diia-inhouse/types'
+import { HttpStatusCode, Logger } from '@kant2002-diia-inhouse/types'
 
 import { HealthCheck, HealthCheckDetails } from '../../../src'
 
